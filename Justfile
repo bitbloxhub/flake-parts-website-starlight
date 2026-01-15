@@ -1,0 +1,2 @@
+dev:
+	tilt up --stream
