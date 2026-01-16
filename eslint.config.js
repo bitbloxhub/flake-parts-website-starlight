@@ -3,7 +3,7 @@ import format from "eslint-plugin-format"
 
 export default antfu(
 	{
-		ignores: ["src/content/docs/reference/options/**/*.md"],
+		ignores: ["src/content/docs/**/*.md"],
 
 		stylistic: {
 			indent: "tab",

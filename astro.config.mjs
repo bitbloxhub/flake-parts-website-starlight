@@ -16,8 +16,8 @@ export default defineConfig({
 			title: "flake-parts",
 			social: [{ icon: "github", label: "GitHub", href: "https://github.com/hercules-ci/flake-parts" }],
 			sidebar: [
-				{ slug: '' },
-				{ slug: 'getting-started' },
+				{ slug: "" },
+				{ slug: "getting-started" },
 				{
 					label: "Tutorials",
 					items: [
